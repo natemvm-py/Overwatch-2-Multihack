@@ -1,5 +1,5 @@
-# Rigel OW2 Updated Source
- Updated: 3/12/2024 / 3rd DECEMBER 2024
+Overwatch 2 Multihack
 
- All releases are unprotected.
- Protect with themida using atleast entry point virtualisation or ban chance is high.
+Old rigel source, updated for most recent game version.
+
+Protected with themida
